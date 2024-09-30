@@ -56,15 +56,12 @@ body {
 	max-width: 100%;
 }
 
-.title {
-	font-size: 1.5rem;
-}
 .tag {
 	border-radius: 4px;
 	background-color: var(--yellow);
 	display: inline;
 	padding: 8px 12px;
-	font-weight: 700;
+	font-weight: 800;
 }
 .description {
 	color: var(--gray-500);
